@@ -1,7 +1,7 @@
 ---
 ID: "84b8f80da03b"
 createdAt: "2024-01-22T11:03:30.000Z"
-updatedAt: "2024-02-07T13:29:36.457Z"
+updatedAt: "2024-05-25T15:17:40.078Z"
 status: "publish"
 slug: "contentrains-brand-new-look-is-almost-here"
 title: "The Exciting Reveal: Contentrain's Brand New Look is Almost Here!"
@@ -10,6 +10,8 @@ imagesrc: "public/images/1705781947129_blog cover.svg"
 imagealt: "alt image"
 author: "eeacee5d426c"
 category: "fdf1dd91a0b9"
+yayinda: true
+scheduled: false
 path: "content/blog"
 ---
 # Hello Contentrain Community!
