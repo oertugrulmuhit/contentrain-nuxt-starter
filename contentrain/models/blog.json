@@ -182,5 +182,24 @@
     },
     "validations": {},
     "fieldType": "relation"
+  },
+  {
+    "name": "yayinda",
+    "description": "public-or-draft",
+    "fieldId": "yayinda",
+    "modelId": "blog",
+    "componentId": "checkbox",
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "checkbox": {
+            "value": true
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "boolean"
   }
 ]
